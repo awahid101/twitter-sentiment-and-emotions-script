@@ -7,10 +7,10 @@ import time
 import json
 
 #consumer key, consumer secret, access token, access secret.
-ckey="FEIx7gT2VNBWqqWI5JbWrp5rH"
-csecret="ApUELHmBbmTVpTzI1rRf3DWScENS3qzgv1DudZWJ6npACTlb32"
-atoken="2931921560-zSy3fPD1DRJ7YcojmPoX28mHUr37Ux2xhJ8pAvx"
-asecret="QKUiWBZALGE20kHOIa6SihWMoKN1lrNY2PC2yceHk3MNl"
+ckey="FEIx7gT2VNBWqqWI5JbWr15rH"
+csecret="ApUELHmBbmTVpTzI1rRf321WScENS3qzgv1DudZWJ6npACTlb32"
+atoken="2931921560-zSy3fPD1DdsRJ7YcojmPoX28mHUr37Ux2xhJ8pAvx"
+asecret="QKUiWBZALGE20kHOIa6dsSihWMoKN1lrNY2PC2yceHk3MNl"
 
 class listener(StreamListener):
 
